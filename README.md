@@ -16,9 +16,12 @@ Snapshots of those data
 
 <img width="665" alt="Newdash" src="https://github.com/KasthuriKrishna/Police_Management_Dashboard/assets/123156152/049ddf2a-19ae-464e-94bf-ec41c6824f5a">
 
+<img width="697" alt="newPI" src="https://github.com/KasthuriKrishna/Police_Management_Dashboard/assets/123156152/80ca5d65-1461-4a1f-8495-653bea27dac6">
+
+![Screenshot (149)](https://github.com/KasthuriKrishna/Police_Management_Dashboard/assets/123156152/7251cbff-00ba-43d5-9195-68a80a42b04a)
 
 
-
+![Screenshot (148)](https://github.com/KasthuriKrishna/Police_Management_Dashboard/assets/123156152/bcc5797c-1da6-44de-b7d0-2878cefd871a)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
