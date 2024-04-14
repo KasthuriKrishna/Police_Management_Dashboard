@@ -1,0 +1,42 @@
+/* Style for form container */
+.form-container {
+    width: 70%; /* Adjust the width as needed */
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f0f0f0; /* Pastel background color */
+    border-radius: 10px;
+  }
+  
+  /* Style for form fields */
+  .form-field {
+    display: inline-block;
+    width: calc(50% - 10px); /* Two fields per row */
+    margin-bottom: 10px;
+  }
+  
+  /* Style for input fields */
+  .form-field input[type="text"] {
+    width: calc(100% - 30px); /* Adjusted width to account for space */
+    padding: 5px;
+    margin-right: 50px; /* Add space between fields in the same row */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  /* Style for submit button */
+  .submit-button {
+    display: block;
+    width: 100%;
+    padding: 10px;
+    background-color: red; /* Red color for button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Center the submit button */
+  .submit-button-container {
+    text-align: center;
+  }
+  

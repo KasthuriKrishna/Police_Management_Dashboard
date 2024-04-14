@@ -1,0 +1,116 @@
+/* SignInPage.css */
+*{
+  font-family: monospace;
+}
+/* Normal state */
+.signin-container {
+    max-width: 400px;
+    margin: 45px auto;
+    padding: 30px;
+    border-radius: 10px;
+    background-image: linear-gradient(to top left, white, #e4ae01);
+    box-shadow: 0px 0px 150px red;
+    transition: backdrop-filter 0.3s ease;
+  }
+  
+  /* Hover state */
+  .signin-container:hover {
+  }
+  
+  .signin-container h2 {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+    transition: filter 0.3s ease;
+  }
+  
+  .signin-input {
+    margin-bottom: 1.5rem;
+  }
+  
+  .signin-input label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #555;
+    font-size: 16px;
+  }
+  
+  .signin-input input {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color: #f5f5f5;
+    color: #333;
+    transition: border-color 0.3s ease;
+  }
+  
+  .signin-input input:focus {
+    outline: none;
+    border-color: #7b9ad0;
+    box-shadow: 0 0 0 3px rgba(123, 154, 208, 0.2);
+  }
+  
+  .error-message {
+    color: red;
+    font-style: italic;
+    margin-top: 0.5rem;
+  }
+  
+  .signin-button {
+    padding: 14px 24px;
+    color: white;
+    background-color: #dd0000;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    text-align: center;
+    display: block;
+    width: 100%;
+    transition: background-color 0.3s ease;
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+  }
+  
+  .signin-button:hover {
+    background-color: #0c2482;
+    color:white;
+    box-shadow: 10px 6px rgba(0, 0, 0, 0.2);
+  }
+  
+  .banner-logo{
+    height: 150px;
+    margin-top: 10px;
+    margin-right: 10px;
+  }
+
+  .cont-logo{
+    height: 155px
+  }
+
+  .Banner{
+    display: flex;
+    margin: 10px 500px;
+    align-items: center;
+    justify-content: center;
+
+  }
+.content{
+  justify-content: center;
+}
+
+  .police{
+    line-height: 0px;
+    font-size: 22px;
+  }
+
+  .gov{
+    font-size: 15px;
+    justify-content: center;
+    padding-left: 35px;
+  }

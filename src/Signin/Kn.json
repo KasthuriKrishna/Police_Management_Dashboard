@@ -1,0 +1,22 @@
+{
+    "signInTitle": "ಸೈನ್ ಇನ್",
+    "signUpTitle": "ಸೈನ್ ಅಪ್",
+    "usernameLabel": "ಬಳಕೆದಾರ ಹೆಸರು",
+    "passwordLabel": "ಪಾಸ್‌ವರ್ಡ್",
+    "districtLabel": "ಜಿಲ್ಲೆಯನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "roleLabel": "ಪಾತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ",
+    "unitLabel": "ಯೂನಿಟ್ ಆಯ್ಕೆಮಾಡಿ",
+    "signInButton": "ಸೈನ್ ಇನ್",
+    "signUpButton": "ಸೈನ್ ಅಪ್",
+    "fillAllFieldsError": "ದಯವಿಟ್ಟು ಎಲ್ಲಾ ಕ್ಷೇತ್ರಗಳನ್ನು ನಿರ್ದಿಷ್ಟಪಡಿಸಿ",
+    "selectOption": "-- ಆಯ್ಕೆ ಮಾಡಿ --",
+    "Sub-inspector": "ಸಬ್-ಇನ್ಸ್‌ಪೆಕ್ಟರ್",
+    "Inspector": "ಇನ್‌ಸ್‌ಪೆಕ್ಟರ್",
+    "ACP": "ಎಸಿಪಿ",
+    "District A": "ಜಿಲ್ಲೆ ಎ",
+    "District B": "ಜಿಲ್ಲೆ ಬಿ",
+    "District C": "ಜಿಲ್ಲೆ ಸಿ",
+    "Unit 1": "ಯೂನಿಟ್ ೧",
+    "Unit 2": "ಯೂನಿಟ್ ೨",
+    "Unit 3": "ಯೂನಿಟ್ ೩"
+  }

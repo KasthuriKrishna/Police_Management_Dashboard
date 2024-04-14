@@ -1,0 +1,15 @@
+{
+    "signInTitle": "Sign In",
+  "signUpTitle": "Sign Up",
+  "usernameLabel": "Username",
+  "passwordLabel": "Password",
+  "districtLabel": "Select District",
+  "roleLabel": "Select Role",
+  "unitLabel": "Select Unit",
+  "signInButton": "Sign In",
+  "signUpButton": "Sign Up",
+  "selectOption": "-- Select --",
+  "fillAllFieldsError": "Please fill out all fields",
+  "usernamePasswordError": "Please enter username and password",
+  "invalidCredentialsError": "Invalid username or password"
+  }

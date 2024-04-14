@@ -1,0 +1,8 @@
+.marquee-container {
+    overflow: hidden;
+  }
+  
+  .marquee.paused {
+    -webkit-animation-play-state: paused;
+    animation-play-state: paused;
+  }

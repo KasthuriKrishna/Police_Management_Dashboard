@@ -1,0 +1,17 @@
+[
+    {
+      "username": "PI",
+      "password": "xxx",
+      "district": "District A",
+      "role": "Inspector",
+      "unitname": "Unit 1"
+    },
+    {
+      "username": "ACP",
+      "password": "xxx",
+      "district": "District C",
+      "role": "ACP",
+      "unitname": "Unit 3"
+    }
+  ]
+  
